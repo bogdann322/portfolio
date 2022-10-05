@@ -1,0 +1,69 @@
+.aside{
+    padding-top: 49px;
+    width: 30%;
+    background-color: #1E2939;
+}
+.photo{
+    width: 100%;
+    padding-top: 30px;
+}
+.contacts, 
+.techSkills, 
+.softSkills {
+    margin-left: 40px;
+}
+.contacts{
+    margin-bottom: 50px;
+}
+.sidebadTitle {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color:#ffffff;
+}
+.contactsType {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.contactsLink {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #78889f;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.contactsLink:hover{
+    color:white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.contactsItems {
+    margin: 5px 0;
+}
+
+.techSkills{
+    margin-bottom: 45px;
+}
+.techSkillsLists, 
+.softSkillsLists {
+    padding: 0;
+    margin-left: 22px;
+}
+.techSkillsItems,
+.softSkillsItems{
+    color: #FB6D3A;
+}
+.techSkillsText,
+.softSkillsText{
+    color:#FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}

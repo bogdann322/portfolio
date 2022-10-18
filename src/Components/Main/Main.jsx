@@ -46,6 +46,21 @@ const Main = () => {
 						.....[
 						<span className={styles.projectsText}>React.js, CSS Modules</span> ]
 					</li>
+					<li className={styles.projectsItems}>
+						<a
+							href='https://pmgranit.com.ua/'
+							target='_blank'
+							rel='noopener noreferrer'
+						>
+							<span
+								className={`${styles.projectsText} ${styles.projectsTextActiv}`}
+							>
+								https://pmgranit.com.ua/
+							</span>
+						</a>
+						...................[
+						<span className={styles.projectsText}>React.js,React/Redux, CSS Modules</span> ]
+					</li>
 				</ol>
 			</div>
 			<div>

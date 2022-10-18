@@ -58,7 +58,7 @@ const Main = () => {
 								https://pmgranit.com.ua/
 							</span>
 						</a>
-						...................[
+						.................[
 						<span className={styles.projectsText}>React.js,React/Redux, CSS Modules</span> ]
 					</li>
 				</ol>

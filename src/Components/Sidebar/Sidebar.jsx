@@ -1,5 +1,6 @@
 import React from 'react';
 
+import avatar from '../../img/avatar.jpg'
 import phone from '../../img/telephone.png'
 import mail from '../../img/email.png'
 import git from '../../img/github.png'
@@ -9,7 +10,7 @@ import styles from './Sidebar.module.css'
 const Sidebar = () => {
     return (
         <aside className={styles.aside}>
-            <img src="https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80" alt="user" className={styles.photo}/>
+            <img src={avatar} alt="user" className={styles.photo}/>
             <div className={styles.contacts} > 
                 <h3 className={styles.sidebadTitle}>Contacts</h3>
                 <div className={styles.contactsItems}>

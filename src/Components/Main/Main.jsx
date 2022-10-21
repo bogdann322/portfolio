@@ -44,7 +44,7 @@ const Main = () => {
 							</span>
 						</a>
 						.....[
-						<span className={styles.projectsText}>React.js, CSS Modules</span> ]
+						<span className={styles.projectsText}>React.js,React/Redux, CSS Modules</span> ]
 					</li>
 					<li className={styles.projectsItems}>
 						<a
@@ -58,8 +58,23 @@ const Main = () => {
 								https://pmgranit.com.ua/
 							</span>
 						</a>
-						.................[
+						.......................................[
 						<span className={styles.projectsText}>React.js,React/Redux, CSS Modules</span> ]
+					</li>
+					<li className={styles.projectsItems}>
+						<a
+							href='https://bogdann322.github.io/ReactQuize/'
+							target='_blank'
+							rel='noopener noreferrer'
+						>
+							<span
+								className={`${styles.projectsText} ${styles.projectsTextActiv}`}
+							>
+								https://bogdann322.github.io/ReactQuize/
+							</span>
+						</a>
+						...........[
+						<span className={styles.projectsText}>React.js,React/Redux, SCSS</span> ]
 					</li>
 				</ol>
 			</div>

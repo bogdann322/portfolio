@@ -44,7 +44,7 @@ const Main = () => {
 							</span>
 						</a>
 						.....[
-						<span className={styles.projectsText}>React.js,Redux, CSS Modules</span> ]
+						<span className={styles.projectsText}>React.js, Redux, CSS Modules</span> ]
 					</li>
 					<li className={styles.projectsItems}>
 						<a
@@ -59,7 +59,7 @@ const Main = () => {
 							</span>
 						</a>
 						.......................................[
-						<span className={styles.projectsText}>React.js,Redux, CSS Modules</span> ]
+						<span className={styles.projectsText}>React.js, Redux, CSS Modules</span> ]
 					</li>
 					<li className={styles.projectsItems}>
 						<a
@@ -74,7 +74,7 @@ const Main = () => {
 							</span>
 						</a>
 						...........[
-						<span className={styles.projectsText}>React.js,Redux, SCSS</span> ]
+						<span className={styles.projectsText}>React.js, Redux, SCSS</span> ]
 					</li>
 				</ol>
 			</div>

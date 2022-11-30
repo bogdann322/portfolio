@@ -48,21 +48,6 @@ const Main = () => {
 					</li>
 					<li className={styles.projectsItems}>
 						<a
-							href='https://pmgranit.com.ua/'
-							target='_blank'
-							rel='noopener noreferrer'
-						>
-							<span
-								className={`${styles.projectsText} ${styles.projectsTextActiv}`}
-							>
-								https://pmgranit.com.ua/
-							</span>
-						</a>
-						.......................................[
-						<span className={styles.projectsText}>React.js, Redux, CSS Modules</span> ]
-					</li>
-					<li className={styles.projectsItems}>
-						<a
 							href='https://bogdann322.github.io/ReactQuize/'
 							target='_blank'
 							rel='noopener noreferrer'
@@ -75,6 +60,21 @@ const Main = () => {
 						</a>
 						...........[
 						<span className={styles.projectsText}>React.js, Redux, SCSS</span> ]
+					</li>
+					<li className={styles.projectsItems}>
+						<a
+							href='https://bogdann322.github.io/pizza-shop/'
+							target='_blank'
+							rel='noopener noreferrer'
+						>
+							<span
+								className={`${styles.projectsText} ${styles.projectsTextActiv}`}
+							>
+								https://bogdann322.github.io/pizza-shop/
+							</span>
+						</a>
+						.....[
+						<span className={styles.projectsText}>React.js, TypeScript, Redux Toolkit, CSS Modules, SASS</span> ]
 					</li>
 				</ol>
 			</div>

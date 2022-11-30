@@ -33,13 +33,14 @@ const Sidebar = () => {
             <div className={styles.techSkills}>
                 <h3 className={styles.sidebadTitle}>Tech Skills</h3>
                 <ul className={styles.techSkillsLists}>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>React.js</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Redux Toolkit</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>TypeScript</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Redux</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>SASS</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>HTML5,CSS3</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>GIT, Figma, Trello</span></li>
-                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>JavaScript(basic)</span></li>
-                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>React.js</span></li>
-                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>React.js/Redux</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>AJAX, JSON</span></li>
-                    
                 </ul>
             </div>
             <div className={styles.softSkills}>

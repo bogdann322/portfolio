@@ -63,6 +63,21 @@ const Main = () => {
 					</li>
 					<li className={styles.projectsItems}>
 						<a
+							href='https://bogdann322.github.io/todolist/'
+							target='_blank'
+							rel='noopener noreferrer'
+						>
+							<span
+								className={`${styles.projectsText} ${styles.projectsTextActiv}`}
+							>
+								https://bogdann322.github.io/todolist/
+							</span>
+						</a>
+						.....[
+						<span className={styles.projectsText}>React.js, CSS Modules</span> ]
+					</li>
+					<li className={styles.projectsItems}>
+						<a
 							href='https://bogdann322.github.io/pizza-shop/'
 							target='_blank'
 							rel='noopener noreferrer'
@@ -82,19 +97,19 @@ const Main = () => {
 				<h3 className={styles.mainTitle}>Work Experience</h3>
 				<div>
 					<h4 className={styles.workPosition}>
-						Front-End Developer{' '}
+						Front-End Developer
 						<span className={styles.organization}>Freelance</span>
 					</h4>
 					<p className={styles.period}>November 2021 - December 2021</p>
 					<ul className={styles.workList}>
 						<li className={styles.workListItem}>
-							Create User Page with slider and different
+							Created User Page with slider and different
 						</li>
 						<li className={styles.workListItem}>
-							Create Admin Page with ability to add/delete new posts/photos
+							Created Admin Page with ability to add/delete new posts/photos
 						</li>
 						<li className={styles.workListItem}>
-							Make the site adaptable for all devices
+							Made the site adaptable for all devices
 						</li>
 					</ul>
 				</div>

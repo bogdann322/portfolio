@@ -74,7 +74,7 @@ const Main = () => {
 							</span>
 						</a>
 						...................[
-						<span className={styles.projectsText}>React.js,TypeScript, CSS Modules</span> ]
+						<span className={styles.projectsText}>React.js, TypeScript, CSS Modules</span> ]
 					</li>
 					<li className={styles.projectsItems}>
 						<a

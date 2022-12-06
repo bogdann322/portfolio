@@ -73,8 +73,8 @@ const Main = () => {
 								https://bogdann322.github.io/todolist/
 							</span>
 						</a>
-						.....[
-						<span className={styles.projectsText}>React.js, CSS Modules</span> ]
+						...................[
+						<span className={styles.projectsText}>React.js,TypeScript, CSS Modules</span> ]
 					</li>
 					<li className={styles.projectsItems}>
 						<a
@@ -97,8 +97,8 @@ const Main = () => {
 				<h3 className={styles.mainTitle}>Work Experience</h3>
 				<div>
 					<h4 className={styles.workPosition}>
-						Front-End Developer
-						<span className={styles.organization}>Freelance</span>
+						Front-End Developer 
+						<span className={styles.organization}> Freelance</span>
 					</h4>
 					<p className={styles.period}>November 2021 - December 2021</p>
 					<ul className={styles.workList}>

@@ -9,7 +9,7 @@ const Main = () => {
 				<h2 className={styles.aboutPosition}>Front-End Developer</h2>
 				<h1 className={styles.aboutName}>Bohdan Nahorniak</h1>
 				<p className={styles.aboutDesription}>
-					I'm a young, responsible, learning fast and hard-working. I always
+					I'm a young, responsible,fast learning and hard-working. I always
 					achieve my goals. I'm ready to learn new technologies.
 				</p>
 			</div>
@@ -100,7 +100,7 @@ const Main = () => {
 						Front-End Developer 
 						<span className={styles.organization}> Freelance</span>
 					</h4>
-					<p className={styles.period}>November 2021 - December 2021</p>
+					<p className={styles.period}>November 2021 - January 2021</p>
 					<ul className={styles.workList}>
 						<li className={styles.workListItem}>
 							Created User Page with slider and different

@@ -36,7 +36,8 @@ const Sidebar = () => {
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>React.js</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Redux Toolkit</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>TypeScript</span></li>
-                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Redux</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Vue.js</span></li>
+                    <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>Node.js</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>SASS</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>HTML5,CSS3</span></li>
                     <li className={styles.techSkillsItems}><span className={styles.techSkillsText}>GIT, Figma, Trello</span></li>

@@ -100,7 +100,7 @@ const Main = () => {
 						Front-End Developer 
 						<span className={styles.organization}> Freelance</span>
 					</h4>
-					<p className={styles.period}>November 2021 - January 2021</p>
+					<p className={styles.period}>November 2021 - January 2022</p>
 					<ul className={styles.workList}>
 						<li className={styles.workListItem}>
 							Created User Page with slider and different
